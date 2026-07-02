@@ -25,5 +25,11 @@ All source code, theoretical explanations, and critical conclusions are availabl
 
 **[Fall Detection Using Kinect Depth Data](fall_detection.ipynb)**
 
+## Video Demo
+
+A complete visual demonstration of the processed dataset is available on YouTube. The video showcases the active Computer Vision pipeline, including depth masks, bounding boxes, floor plane estimations, and a real-time dashboard plotting the extracted spatial and kinematic features.
+
+**[Pipeline Demo](https://youtu.be/Ls5-7-q5OKc)**
+
 ---
 *Project developed for the Computer Vision and Image Processing course - University of Bologna.* *Author: Alfredo Grande*
